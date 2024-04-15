@@ -1,4 +1,4 @@
-package com.example.alldemoapp
+package com.example.alldemoapp.receiver
 
 import android.app.Activity
 import android.content.BroadcastReceiver

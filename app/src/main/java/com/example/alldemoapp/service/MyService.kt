@@ -1,4 +1,4 @@
-package com.example.alldemoapp
+package com.example.alldemoapp.service
 
 import android.app.ForegroundServiceStartNotAllowedException
 import android.app.Notification
